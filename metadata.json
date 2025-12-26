@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Parcere - Gestão Inteligente de Estoque",
+  "description": "Conecta marcas de alimentos a freelancers para garantir a execução perfeita nas prateleiras e níveis de estoque em lojas de varejo usando verificação por IA.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
